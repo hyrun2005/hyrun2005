@@ -1,15 +1,10 @@
 ## Hi 👋, I'm Yurii Hyrun  
 ### Junior Software Engineer | Data Science Enthusiast  
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" alt="Coding">
-</p>
-
 ### About Me:
 - 🌟 Passionate about Data Science & Machine Learning
 - 📚 Currently studying at **Vistula University (6th semester)**
-- 🔍 Exploring **Go** as a new programming language
-- 📞 Contact: **[hyrun2005@gmail.com](mailto:hyrun2005@gmail.com)**
+- 📞 Contact: **[yuriihyrun@gmail.com](mailto:yuriihyrun@gmail.com)**
 
 ---
 
@@ -18,20 +13,14 @@
   <a href="https://linkedin.com/in/yurii-hyrun-897b9b277" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://instagram.com/yr.hrn" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/yuriiwknd" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40" width="40"/>
-  </a>
 </p>
 
 ---
 
 ### 💡 Skills & Technologies:
 #### **Languages & Frameworks:**
-- Python, SQL, Git, C++, PHP
-- Django, JavaScript, React
+- Python, SQL, Git
+- Django, JavaScript
 
 #### **Machine Learning & Data Science:**
 - Supervised & Unsupervised Learning (Decision Trees, Random Forest, SVC, Logistic Regression, Linear Regression)
