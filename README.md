@@ -20,24 +20,6 @@
 ### 💡 Skills & Technologies:
 #### **Languages & Frameworks:**
 - Python, SQL, Git
-- Django, JavaScript
-
-#### **Machine Learning & Data Science:**
-- Supervised & Unsupervised Learning (Decision Trees, Random Forest, SVC, Logistic Regression, Linear Regression)
-- TensorFlow & Scikit-Learn
-- Data Processing & Analysis: Data Cleaning, Feature Engineering, Data Visualization
-
-#### **Soft Skills:**
-- Strong communication & teamwork skills
-- Critical thinking & problem-solving
-
----
-
-### 📊 Machine Learning Experience:
-1. Developed **churn prediction models** and **stock forecasting** tools
-2. Applied **supervised & unsupervised learning** techniques (Decision Trees, Random Forest, SVC, Logistic Regression)
-3. Optimized **data preprocessing** and **feature engineering** for better model performance
-4. Used **TensorFlow & Scikit-Learn** for model training & evaluation
 
 ---
 
@@ -53,15 +35,5 @@
 </p>
 
 ---
-
-### 🎯 Fun Fact:
-**Did you know?** I started coding because I love **solving real-world problems with data!**
-
----
-
-### ✨ Looking Forward To:
-- Collaborating on **AI & ML projects**
-- Expanding my **Go & Python expertise**
-- Building innovative **data-driven solutions**
 
 Thanks for stopping by! Let's **connect and build something amazing together**! 🚀
